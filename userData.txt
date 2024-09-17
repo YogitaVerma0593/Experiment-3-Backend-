@@ -1,0 +1,12 @@
+
+    Username: Yogita Verma
+    Password: infinity
+    Id: 101
+    Age: 21
+    Date of Joining: 05-09-2024
+    Salary: 90000
+    Email: vermayogita890@gmail.com
+    Department: Finance
+    Post: Software Developer
+    ----------------------------------------
+    
